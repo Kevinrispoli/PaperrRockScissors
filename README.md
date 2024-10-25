@@ -1,2 +1,2 @@
-# PaperrRockScissors
-Paper Rock Scissors game using JavaScript
+# Script
+ROCK PAPER SCISSORS GAME USING HTML, CSS AND JAVASCRIPT.
